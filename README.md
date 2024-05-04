@@ -14,11 +14,11 @@ Aetherium is a modern PvP client for the future. Every feature you need, is pack
 
 ## Our team
 
-CEO - [Refactoring](https://github.com/refactorinqq)
-CFO - [Nitlix](https://github.com/nitlix)
-
-[ThePython](https://github.com/SethTheDev)
-[Zenvunu](https://github.com/zslddd)
+- [Refactoring](https://github.com/refactorinqq)
+- [Nitlix](https://github.com/nitlix)
+- [ThePython](https://github.com/SethTheDev)
+- [Zenvunu](https://github.com/zslddd)
+- [Korudo](https://github.com/ssmidge)
 
 ## Join us
 
