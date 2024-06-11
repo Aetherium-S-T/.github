@@ -19,6 +19,7 @@ Aetherium is a modern PvP client for the future. Every feature you need, is pack
 - [ThePython](https://github.com/SethTheDev)
 - [Zenvunu](https://github.com/zslddd)
 - [Korudo](https://github.com/ssmidge)
+- [Spectra](https://github.com/spectradevv)
 
 ## Join us
 
